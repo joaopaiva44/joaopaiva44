@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o João Paiva</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&center=true&vCenter=true&width=500&lines=A+programação+é+minha+paixão+e+inovação+é+o+objetivo;Programar+é+mais+do+que+uma+habilidade,+é+uma+forma+de+pensar!;Sempre+aprendendo+coisas+novas!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&center=true&vCenter=true&width=500&lines="Apaixonado+por+programação+e+desafios;Programar+é+mais+do+que+uma+habilidade,+é+uma+forma+de+pensar!;Sempre+aprendendo+coisas+novas!" />
 </p>
 
 ---
