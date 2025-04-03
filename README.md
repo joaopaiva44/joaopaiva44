@@ -41,7 +41,7 @@
 ## 📊 Estatísticas do GitHub  
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopaiva44&show_icons=true&theme=dark&count_private=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaiva44s&theme=dark" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaiva44&theme=dark" />
 </div>  
 
 ---
