@@ -7,13 +7,13 @@
 ---
 
 ## 🚀 Sobre mim  
-🎓 Estudante de **Ciência da Computação**  
+🎓 Formado em  **Análise e Desenvolvimento de Sistemas**  
 💡 Explorando novas tecnologias e aprofundando meus conhecimentos  
 💻 Amante de desenvolvimento web e software  
 
 📫 Entre em contato comigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DavySilva-blue?logo=linkedin)](https://www.linkedin.com/in/davysps/)  
-[![GitHub](https://img.shields.io/badge/GitHub-DavySPS-black?logo=github)](https://github.com/Davysps)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DavySilva-blue?logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-freitas-paiva-b51a29228/) 
+[![GitHub](https://img.shields.io/badge/GitHub-DavySPS-black?logo=github)](https://github.com/joaopaiva44)  
 
 ---
 
@@ -39,18 +39,18 @@
 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Davysps&show_icons=true&theme=dark&count_private=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davysps&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopaiva44&show_icons=true&theme=dark&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaiva44s&theme=dark" />
 </div>  
 
 ---
 
 ## ⚡ Repositórios em destaque  
-🔹 [**Ainda em desenvolvimento**](https://github.com/Davysps/Projeto1)  
-🔹 [**Ainda em desenvolvimento**](https://github.com/Davysps/Projeto2)  
+🔹 [**Ainda em desenvolvimento**](https://github.com/joaopaiva44/Projeto1)  
+🔹 [**Ainda em desenvolvimento**](https://github.com/joaopaiva44/Projeto2)  
 
 ---
 
 🚀 Sempre aprendendo e explorando novas tecnologias!  
-📩 **Vamos nos conectar!** [LinkedIn](https://www.linkedin.com/in/davysps/) | [GitHub](https://github.com/joaopaiva44)
+📩 **Vamos nos conectar!** [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-de-freitas-paiva-b51a29228/) | [GitHub](https://github.com/joaopaiva44)
 
