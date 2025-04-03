@@ -12,8 +12,8 @@
 💻 Amante de desenvolvimento web e software  
 
 📫 Entre em contato comigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JoãoVictordeFreitasPaiva-blue?logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-freitas-paiva-b51a29228/) 
-[![GitHub](https://img.shields.io/badge/GitHub-DavySPS-black?logo=github)](https://github.com/joaopaiva44)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João Victor de Freitas Paiva-blue?logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-freitas-paiva-b51a29228/) 
+[![GitHub](https://img.shields.io/badge/GitHub-joaopaiva44-black?logo=github)](https://github.com/joaopaiva44)  
 
 ---
 
