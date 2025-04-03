@@ -1,25 +1,56 @@
-# Olá, eu sou João Paiva! 👋
+<h1 align="center">👋 Olá, eu sou o João Paiva</h1>
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência em diversas linguagens de programação e tecnologias. Gosto de criar soluções eficazes e práticas, sempre buscando aprender mais e melhorar minhas habilidades.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+formação!;Apaixonado+por+tecnologia!;Sempre+aprendendo+coisas+novas!" />
+</p>
 
-## 🚀 Habilidades
+---
 
-- **Linguagens de Programação**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)  
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+## 🚀 Sobre mim  
+🎓 Estudante de **Ciência da Computação**  
+💡 Explorando novas tecnologias e aprofundando meus conhecimentos  
+💻 Amante de desenvolvimento web e software  
 
-- **Ambiente de Desenvolvimento**:  
-  ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+📫 Entre em contato comigo:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DavySilva-blue?logo=linkedin)](https://www.linkedin.com/in/davysps/)  
+[![GitHub](https://img.shields.io/badge/GitHub-DavySPS-black?logo=github)](https://github.com/Davysps)  
 
-## 📈 Estatísticas do GitHub
+---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&count_private=true&hide=prs&theme=radical)
+## 🛠️ Tecnologias e Ferramentas  
+**Linguagens e Tecnologias:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 
-## 🔗 Conecte-se comigo!
+🛠️ **Ferramentas:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/seu-perfil/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:seu-email@example.com)
+---
+
+## 📊 Estatísticas do GitHub  
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Davysps&show_icons=true&theme=dark&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davysps&theme=dark" />
+</div>  
+
+---
+
+## ⚡ Repositórios em destaque  
+🔹 [**Ainda em desenvolvimento**](https://github.com/Davysps/Projeto1)  
+🔹 [**Ainda em desenvolvimento**](https://github.com/Davysps/Projeto2)  
+
+---
+
+🚀 Sempre aprendendo e explorando novas tecnologias!  
+📩 **Vamos nos conectar!** [LinkedIn](https://www.linkedin.com/in/davysps/) | [GitHub](https://github.com/joaopaiva44)
+
