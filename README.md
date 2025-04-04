@@ -16,7 +16,7 @@
 
 💻 Acredito que a tecnologia tem o poder de transformar o mundo, e é isso que me motiva todos os dias.
 
-📫 Entre em contato comigo: 
+📫 **Entre em contato comigo:** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JoãoPaiva-blue?logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-freitas-paiva-b51a29228/) 
 [![GitHub](https://img.shields.io/badge/GitHub-joaopaiva44-black?logo=github)](https://github.com/joaopaiva44)  
