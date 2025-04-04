@@ -9,8 +9,9 @@
 
 ## 🚀 Sobre mim  
 🎓 Formado em  **Análise e Desenvolvimento de Sistemas**  
-💡 Explorando novas tecnologias e aprofundando meus conhecimentos  
-💻 Amante de desenvolvimento web e software  
+💡 Sou um entusiasta por desenvolvimento web e software, sempre em busca de novos desafios e oportunidades para aprender. 
+🔍 No meu tempo livre, estou explorando novas tecnologias e aprimorando minhas habilidades em programação.
+💻 Acredito que a tecnologia tem o poder de transformar o mundo, e é isso que me motiva todos os dias.
 
 📫 Entre em contato comigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JoãoPaiva-blue?logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-freitas-paiva-b51a29228/) 
