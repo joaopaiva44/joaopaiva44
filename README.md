@@ -10,6 +10,7 @@
 ## 🚀 Sobre mim  
 🎓 Formado em  **Análise e Desenvolvimento de Sistemas**  
 💡 Sou um entusiasta por desenvolvimento web e software, sempre em busca de novos desafios e oportunidades para aprender.
+
 🔍 No meu tempo livre, estou explorando novas tecnologias e aprimorando minhas habilidades em programação.
 
 💻 Acredito que a tecnologia tem o poder de transformar o mundo, e é isso que me motiva todos os dias.
